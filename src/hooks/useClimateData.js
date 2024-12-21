@@ -121,7 +121,9 @@ export const useClimateData = (cities, period, dataType) => {
       try {
         const results = await Promise.all(
           citiesToFetch.map(async (city) => {
-            const response = await fetch(`/data/csv/${city.toLowerCase()}.csv`);
+            // Utilisez l'URL relative au dossier public
+            const csvPath = new URL(`./data/csv/${city.toLowerCase()}.csv`, window.location.href).pathname;
+            const response = await fetch(csvPath);
             if (!response.ok) {
               throw new Error(`Erreur lors du chargement des données pour ${city}`);
             }
