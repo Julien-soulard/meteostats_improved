@@ -1,0 +1,20 @@
+/* Styles spécifiques à l'application */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Amélioration des transitions */
+.transition-all {
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}
+
+/* Styles pour les boutons */
+button:focus {
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+  ring-2: ring-blue-500;
+}

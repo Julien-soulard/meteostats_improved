@@ -1,0 +1,15 @@
+# Station: NANTES-BOUGUENAIS (44) - Altitude: 26m - Latitude: 47°09'0"N - Longitude: 1°36'30"O
+# Période de référence: 1991-2020
+mois,temp_moyenne,jours_max30,jours_max25,jours_min0,precipitation_moyenne,jours_pluie_1mm,jours_pluie_5mm,jours_pluie_10mm,insolation_heures,jours_rafales_28ms,degres_jours_unifies,jours_orage,jours_grele,jours_neige
+Janvier,6.7,0,0,7.1,86.7,12.5,5.5,2.1,74.5,0.2,348.9,n/a,n/a,1.8
+Février,7.1,0,0,6.0,69.2,10.6,4.3,1.7,100.2,0.3,306.8,n/a,n/a,1.8
+Mars,9.5,0,0.1,2.6,61.2,10.1,3.5,1.4,144.9,0.1,264.4,n/a,n/a,0.5
+Avril,11.7,0,1.1,0.6,61.3,10.0,3.7,1.4,178.5,0.0,190.3,n/a,n/a,0.1
+Mai,15.2,0.3,4.1,0,68.0,9.8,4.2,1.7,207.1,0.0,99.1,n/a,n/a,0
+Juin,18.3,1.7,8.5,0,46.7,7.2,2.7,1.1,224.3,0.0,37.4,n/a,n/a,0
+Juillet,20.3,3.2,13.8,0,45.5,6.6,2.4,1.0,241.2,0.0,11.0,n/a,n/a,0
+Août,20.3,3.1,13.8,0,43.8,6.5,2.3,1.0,236.6,0.0,9.4,n/a,n/a,0
+Septembre,17.2,0.8,6.6,0,63.0,8.4,3.5,1.6,193.5,0.0,49.6,n/a,n/a,0
+Octobre,13.7,0,1.1,0.3,99.2,11.7,5.4,2.6,122.2,0.1,140.1,n/a,n/a,0
+Novembre,9.7,0,0,2.4,100.5,12.7,5.8,2.6,85.2,0.2,249.4,n/a,n/a,0.3
+Décembre,7.2,0,0,6.2,101.0,13.0,5.7,2.4,71.8,0.2,335.2,n/a,n/a,1.2

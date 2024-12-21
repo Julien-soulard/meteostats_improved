@@ -1,0 +1,15 @@
+# Station: TOULOUSE-BLAGNAC (31) - Altitude: 151m - Latitude: 43°37'15"N - Longitude: 1°22'44"E
+# Période de référence: 1991-2020
+mois,temp_moyenne,jours_max30,jours_max25,jours_min0,precipitation_moyenne,jours_pluie_1mm,jours_pluie_5mm,jours_pluie_10mm,insolation_heures,jours_rafales_28ms,degres_jours_unifies,jours_orage,jours_grele,jours_neige
+Janvier,6.6,0,0,7.4,51.4,9.6,3.1,1.1,92.5,0.3,352.9,n/a,n/a,1.6
+Février,7.7,0,0.1,5.8,45.0,8.4,2.7,1.0,116.3,0.4,289.7,n/a,n/a,1.3
+Mars,10.7,0,0.8,2.0,49.2,8.8,3.0,1.1,175.0,0.2,226.6,n/a,n/a,0.5
+Avril,13.3,0.1,3.2,0.3,65.6,9.8,3.9,1.7,182.8,0.1,143.4,n/a,n/a,0
+Mai,17.0,1.5,9.3,0,79.1,9.9,4.8,2.2,212.6,0.0,63.5,n/a,n/a,0
+Juin,20.7,5.4,17.1,0,58.4,7.3,3.4,1.6,230.0,0.0,12.9,n/a,n/a,0
+Juillet,23.1,10.3,24.0,0,40.5,5.4,2.3,1.0,255.7,0.0,1.2,n/a,n/a,0
+Août,23.1,10.5,24.3,0,44.0,5.7,2.4,1.1,242.9,0.0,0.9,n/a,n/a,0
+Septembre,19.4,3.4,14.4,0,49.2,6.5,2.9,1.2,204.3,0.0,22.6,n/a,n/a,0
+Octobre,15.1,0.1,4.0,0.2,58.0,8.2,3.4,1.5,151.8,0.0,103.0,n/a,n/a,0
+Novembre,9.9,0,0.2,3.0,60.1,9.2,3.3,1.4,99.5,0.1,243.8,n/a,n/a,0.3
+Décembre,7.2,0,0,6.8,65.7,9.8,3.6,1.5,84.2,0.2,335.2,n/a,n/a,1.0

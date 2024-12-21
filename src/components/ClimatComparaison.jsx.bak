@@ -1,0 +1,33 @@
+import React from 'react';
+import { cityData } from '../data';
+import { DATA_TYPES } from '../hooks/useClimateData';
+
+export const ClimatComparaison = ({ cities, period, dataType, cityColors }) => {
+  if (cities.length < 2) return null;
+
+  return (
+    <div className="w-full">
+      <h3 className="text-lg font-medium mb-4">Comparaison des villes</h3>
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        {cities.map((city) => (
+          <div 
+            key={city}
+            className="bg-white p-4 rounded-lg shadow-sm border border-gray-200"
+            style={{ borderLeftColor: cityColors[city], borderLeftWidth: '4px' }}
+          >
+            <div className="flex items-center justify-between mb-2">
+              <h4 className="font-medium">{city}</h4>
+              <span className="text-sm text-gray-500">{cityData[city].region}</span>
+            </div>
+            <div className="text-sm text-gray-600">
+              <p>Altitude : {cityData[city].altitude}m</p>
+              <p>Département : {cityData[city].department}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+};
+
+export default ClimatComparaison;

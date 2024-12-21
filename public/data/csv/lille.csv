@@ -1,0 +1,15 @@
+# Station: LILLE-LESQUIN (59) - Altitude: 47m - Latitude: 50°34'12"N - Longitude: 3°05'42"E
+# Période de référence: 1991-2020
+mois,temp_moyenne,jours_max30,jours_max25,jours_min0,precipitation_moyenne,jours_pluie_1mm,jours_pluie_5mm,jours_pluie_10mm,insolation_heures,jours_rafales_28ms,degres_jours_unifies,jours_orage,jours_grele,jours_neige
+Janvier,4.4,0,0,9.7,60.7,12.0,4.2,1.3,63.0,0.2,420.6,n/a,n/a,4.1
+Février,4.9,0,0,8.9,49.4,10.1,3.2,1.0,76.0,0.3,369.9,n/a,n/a,4.2
+Mars,7.7,0,0,4.2,52.1,10.4,3.3,1.0,121.1,0.1,319.4,n/a,n/a,2.3
+Avril,10.5,0,0.9,1.6,48.0,9.6,2.8,0.8,172.6,0.0,226.2,n/a,n/a,1.1
+Mai,14.0,0.2,3.1,0.2,64.2,10.2,4.1,1.8,199.4,0.0,131.8,n/a,n/a,0
+Juin,17.0,1.2,5.9,0,65.9,9.8,4.0,1.9,202.3,0,59.6,n/a,n/a,0
+Juillet,19.1,2.7,10.4,0,74.9,10.0,4.2,2.1,211.7,0,20.0,n/a,n/a,0
+Août,19.1,2.5,10.3,0,63.3,9.1,3.4,1.5,199.0,0,18.1,n/a,n/a,0
+Septembre,16.0,0.3,3.7,0,61.3,9.5,3.6,1.5,154.8,0.0,72.1,n/a,n/a,0
+Octobre,12.0,0,0.4,0.6,70.9,10.7,3.9,1.7,113.3,0.1,187.6,n/a,n/a,0
+Novembre,7.7,0,0,3.5,70.0,12.2,4.4,1.6,65.9,0.1,309.4,n/a,n/a,1.5
+Décembre,5.1,0,0,8.7,69.4,12.4,4.2,1.6,50.6,0.2,400.3,n/a,n/a,3.3

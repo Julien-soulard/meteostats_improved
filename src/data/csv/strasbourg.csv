@@ -1,0 +1,15 @@
+# Station: STRASBOURG-ENTZHEIM (67) - Altitude: 150m - Latitude: 48°32'58"N - Longitude: 7°38'25"E
+# Période de référence: 1991-2020
+mois,temp_moyenne,jours_max30,jours_max25,jours_min0,precipitation_moyenne,jours_pluie_1mm,jours_pluie_5mm,jours_pluie_10mm,insolation_heures,jours_rafales_28ms,degres_jours_unifies,jours_orage,jours_grele,jours_neige
+Janvier,2.5,0,0,15.3,35.4,9.1,2.1,0.4,55.5,0.3,479.9,n/a,n/a,n/a
+Février,3.6,0,0,13.7,34.1,8.3,2.1,0.5,85.8,0.1,405.8,n/a,n/a,n/a
+Mars,7.4,0,0,8.4,38.6,8.5,2.4,0.7,146.4,0.1,329.4,n/a,n/a,n/a
+Avril,11.3,0.1,2.2,2.1,41.8,8.6,3.0,0.8,186.9,0.0,201.0,n/a,n/a,n/a
+Mai,15.5,0.9,6.8,0,77.2,10.8,5.0,2.2,209.1,0.0,93.7,n/a,n/a,n/a
+Juin,18.9,3.5,13.7,0,68.5,10.2,4.5,2.1,226.4,0.1,28.9,n/a,n/a,n/a
+Juillet,20.6,6.9,18.5,0,71.9,10.4,4.7,1.9,239.7,0.0,9.1,n/a,n/a,n/a
+Août,20.3,6.1,18.0,0,61.3,9.5,4.5,1.5,224.2,0.0,12.5,n/a,n/a,n/a
+Septembre,16.1,1.0,6.6,0,54.6,8.0,3.6,1.5,173.5,0.0,71.8,n/a,n/a,n/a
+Octobre,11.5,0,0.6,1.4,59.5,9.6,4.0,1.5,100.4,0.1,202.8,n/a,n/a,n/a
+Novembre,6.3,0,0,5.8,47.6,9.2,2.8,1.1,55.2,0.0,349.9,n/a,n/a,n/a
+Décembre,3.3,0,0,12.8,45.2,10.2,2.5,0.8,44.2,0.1,454.3,n/a,n/a,n/a
